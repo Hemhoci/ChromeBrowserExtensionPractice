@@ -1,0 +1,11 @@
+{
+    "name": "Hello world extension",
+    "description": "Base level Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "hello world",
+        "default_icon":  "hello_extendions.png"
+        
+    }
+}
